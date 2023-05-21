@@ -1,0 +1,20 @@
+number is divisible by 2
+number is divisible by 3
+number is not divisible by 2 and 3
+
+and 
+true+true ==>true
+true+false==>false
+false+true==>false
+false+false==>false
+================================
+or
+true+true ==>true
+true+false==>true
+false+true==>true
+false+false==>false
+================================
+not
+reverse
+true==>flase
+false==>true
