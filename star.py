@@ -1,0 +1,10 @@
+row=1
+printVal="";
+while(row<7):
+    printVal="";
+    col=0
+    while(col<row):
+        printVal=printVal+"*"
+        col=col+1
+    print(printVal)
+    row=row+1
